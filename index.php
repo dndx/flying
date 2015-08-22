@@ -69,7 +69,7 @@
         var player;
         function onYouTubeIframeAPIReady() {
           player = new YT.Player('hero_video', {
-            videoId: 'V2tsjeV7uNQ',
+            videoId: 'WgYCy1cl_Xo',
             events: {
               'onReady': onPlayerReady,
               'onStateChange': onPlayerStateChange
