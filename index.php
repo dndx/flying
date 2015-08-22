@@ -6,7 +6,7 @@
             <div id="hero">
                 <div id="youtube">
                     <iframe id="hero_video" frameborder="0" height="100%" width="100%" 
-                            src="https://www.youtube.com/embed/V2tsjeV7uNQ?start=30&amp;controls=0&amp;showinfo=0&amp;autohide=1&amp;loop=1&amp;enablejsapi=1&amp;origin=http://192.168.199.171&amp;wmode=transparent">
+                            src="https://www.youtube.com/embed/WgYCy1cl_Xo?start=15&amp;controls=0&amp;showinfo=0&amp;autohide=1&amp;loop=1&amp;enablejsapi=1&amp;origin=http://192.168.199.171&amp;wmode=transparent">
                     </iframe>
                     <button id="mute">Mute</button>
                 </div>
