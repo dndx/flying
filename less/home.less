@@ -1,0 +1,97 @@
+@import "vars";
+@import "lesshat";
+
+#youtube {
+    position: relative;
+    overflow: hidden;
+    float: left;
+    width: 100%;
+    min-width: 1300px;
+    height: 700px;
+
+    iframe {
+        height: 120%;
+        position: relative;
+        top: -10%;
+    }
+
+    #mute {
+        position: absolute;
+        top: 100px;
+        right: 10px;
+        z-index: 1000;
+        color: white;
+        opacity: 0.5;
+        .transition(opacity 0.5s);
+    }
+
+    #mute:hover {
+        opacity: 1;
+    }
+}
+
+#hero {
+    .text {
+        height: 700px;
+        width: 100%;
+        position: absolute;
+        z-index: 999;
+        color: white;
+        text-align: center;
+
+        .fb-like {
+            margin-top: 15px;
+        }
+
+        h1 {
+            font-weight: 600;
+            font-size: 60px;
+            margin: auto;
+            margin-top: 200px;
+            word-spacing: 10px;
+        }
+
+        a {
+            margin-top: 150px;
+            display: block;
+            color: white !important;
+            font-size: 20px;
+
+            button {
+                padding: 0.5em 4em;
+            }
+        }
+    }
+}
+
+#who_we_are {
+    // background-image: url(http://www.langleyflyingschool.com/Photos/People%20and%20Places/2011/Captain%20Peter%20Dryer,%20Langley%20Airport,%20Extra%20300,%20Langley%20Flying%20School.JPG);
+    background-image: url(/images/c172.jpg);
+}
+
+#learn_to_fly {
+    background-image: url(/images/learn_to_fly.jpg);
+}
+
+#contact_us {
+    background-image: url(/images/runway.jpg);
+
+    h3 {
+        text-align: center;
+    }
+
+    .text {
+        a, a:visited {
+            color: #eaeafa;
+        }
+    }
+
+    table {
+        margin: auto;
+
+        td {
+            padding: 0.5em 1em;
+
+        }
+    }
+}

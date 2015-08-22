@@ -1,0 +1,15 @@
+.shadow {
+  -webkit-box-shadow: 0 1px 10px rgba(20, 20, 20, 0.5);
+  -moz-box-shadow: 0 1px 10px rgba(20, 20, 20, 0.5);
+  box-shadow: 0 1px 10px rgba(20, 20, 20, 0.5);
+}
+#club_equipments {
+  background-image: url(/images/pilot_resources.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+#simulator {
+  background-image: url(http://hushkit.files.wordpress.com/2013/03/cessna-sunset.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}

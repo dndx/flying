@@ -1,0 +1,123 @@
+@import "vars";
+@import "lesshat";
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.clearfix {
+    clear: both;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 10px;
+    right: 10px;
+    //height: 60px;
+    padding-left: 1em;
+    background-color: @blue;
+    .border-radius(5px);
+    margin-top: 1em;
+    border-color: #103050;
+    z-index: 9999;
+    .shadow;
+
+    > h1 {
+        font-size: 20px;
+        font-family: 'Open Sans', sans-serif;
+        color: white;
+        float: left;
+        font-weight: 700;
+        margin-top: 17px;
+
+        > a {
+            color: white;
+            text-decoration: none;
+        }
+    }
+    
+    > ul {
+        font-family: 'Open Sans', sans-serif;
+        list-style-type: none;
+        float: left;
+        //height: 20px;
+        color: white;
+        margin: 0 auto;
+
+        > li {
+            float: left;
+            font-weight: 600;
+
+            > a {
+                display: block;
+                padding: 20px 1em 18px 1em;
+                color: white;
+                text-decoration: none;
+                transition: background-color 0.3s;
+            }
+        }
+
+        > li:hover {
+            > a {
+                background-color: #144576;
+            }
+        }
+    }
+
+} // end header
+
+footer {
+    background-color: @blue;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    padding: 1em;
+
+    a, a:visited {
+        color: white;
+    }
+}
+
+#content {
+    h1.first {
+        margin-top: 2em;
+    }
+
+    .text {
+        width: 90%;
+        margin: 0 auto;
+        font-family: 'Roboto Slab', serif;
+        font-size: 22px;
+
+        a, a:visited {
+            color: @blue;
+        }
+    }
+
+    .parallax {
+        width: 100%;
+        color: #f5f5f5;
+        padding: 50px 0;
+        min-height: 600px;
+        background-attachment: fixed;
+
+        > h1 {
+            margin-bottom: 1em;
+            text-align: center;
+            font-size: 40px;
+        }
+    }
+}
+
+button {
+    .background-image(linear-gradient(to bottom, lighten(@blue, 10%) 0%, lighten(@blue, 5%) 100%));
+    border: none;
+    .border-radius(5px);
+    .shadow;
+}
+
+button:hover {
+    .background-image(linear-gradient(to bottom, lighten(@blue, 5%) 0%, lighten(@blue, 0%) 100%));
+}
