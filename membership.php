@@ -10,7 +10,7 @@
                     Login with your Net-ID as necessary.
                     <br>
                     <br>
-                    You can also join by contact one of our officers or stop by a meeting. Membership is open to any member of the ISU community. Dues are $25 for all members and are good for the whole school year.<br><br>
+                    You can also join by contact one of our officers or stop by a meeting. Membership is open to any member of the ISU community. Dues are $30 for all members and are good for the whole school year.<br><br>
                     Announcements about club meetings and activities are sent out through the club's mailing list. Subscribing to the mailing list is a great way to make sure you know what's going on with our club.
                     <form id="sub" action="https://mailman.iastate.edu/mailman/subscribe/flyclub" method="post">
                         <input style="width: 20em;" type="text" placeholder="Your Net-ID or Full E-Mail Address" name="email">
