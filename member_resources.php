@@ -1,6 +1,6 @@
 <?php
-    $CSS_FILE = "equipment";
-    $TITLE = "Equipment";
+    $CSS_FILE = "member_resources";
+    $TITLE = "Member Resources";
     require('header.php');
 ?>
             <div id="simulator" class="parallax" data-stellar-background-ratio="0.5">
