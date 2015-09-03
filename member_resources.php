@@ -3,8 +3,33 @@
     $TITLE = "Member Resources";
     require('header.php');
 ?>
+            <div id="aspiring_pilots" class="parallax" data-stellar-background-ratio="0.5">
+                <h1 class="first">Aspiring Pilots</h1>
+                <div class="text">
+                    <p>
+                        Below is a summary of what you need for a private pilot’s license (PPL). Check the following link 
+                        for more details <a target="_blank" href="http://www.firstflight.com/private-pilot-requirements/">Private Pilot Requirements</a>.
+                    </p>
+                    <p>
+                        <ol>
+                            <li>Endorsement from an instructor to pass your written knowledge test. You will obtain an endorsement if finish the club Gound School.</li>
+                            <li>40 hours of logged flight time and 20 hours of dual instruction with a certified instructor.</li>
+                        </ol>
+                    </p>
+                    <p>Check out the membership and equipment page (Below) to see how the club can benefit you.</p>
+                </div>
+                <h1>Licensed Pilots</h1>
+                <div class="text">
+                    <p>
+                        Want to become a club pilot? We offer some great discounts if you fly with other members of 
+                        the club. Please read <a href="docs/Flying_Cyclones_Operations_Handbook.pdf">Flight Operations Policy and Procedures Handbook</a>,
+                        sign the <a href="docs/Flying_Cyclones_Pilot_Participation_Agreement.pdf">Club Pilot Agreement</a>, 
+                        and contact a club executive about flying with the club.
+                    </p>
+                </div>
+            </div>
             <div id="simulator" class="parallax" data-stellar-background-ratio="0.5">
-                <h1 class="first">Flight Simulator</h1>
+                <h1>Flight Simulator</h1>
                 <div class="text">
                     <p>The Flying Cyclones operate the flight simulator shown below. It is a CR-12 made by Precision Flight Controls and FAA approved as an Advanced Aircraft Training Device (AATD). It supports both single and multi engine airplanes and can be used for fun or actual flight training. It runs a commercial version of the <a href='http://x-plane.com'>X-Plane</a> flight simulator software which is used by numerous companies and government agencies.</p>
                     <center><img alt="Simulator" src='/images/simulator.jpg'></center>

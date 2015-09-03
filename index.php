@@ -28,12 +28,6 @@
                     In addition to our club meetings, we have many activities scheduled throughout the year. These have included recreational flights, classes for aspiring pilots, participation in intercollegiate air meets, and trips to various locations around the midwest. If you're interested in learning more, please join us at our next meeting or <a href="/#contact_us">email us</a>.
                 </div>
             </div>
-            <div id="learn_to_fly" class="parallax" data-stellar-background-ratio="0.5">
-                <h1>Learn to Fly</h1>
-                <div class="text">
-                    If you are interested in obtaining a pilot's licence or getting a higher rating, you can contact the local FBO for more information. You can also stop by a club meeting and one of our club members will be happy to explain the process of becoming a pilot and answer any questions you have. Our club runs a ground school for people interested in becoming pilots, typically in the Fall semester.
-                </div>
-            </div>
             <div id="contact_us" class="parallax" data-stellar-background-ratio="0.5">
                 <h1>Contact Us</h1>
                 <div class="text">

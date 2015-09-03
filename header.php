@@ -17,8 +17,6 @@
             <ul>
                 <li><a href="/#who_we_are">About Us</a></li>
                 <li><a href="/membership.php">Membership</a></li>
-                <li><a href="/#learn_to_fly">Learn to Fly</a></li>
-                <li><a href="/pilot_resources.php">Pilot Resources</a></li>
                 <li><a href="/member_resources.php">Member Resources</a></li>
                 <!--<li><a href="/fbos_and_airport.shtml">FBOs and Airport</a></li>-->
                 <li><a href="/ames_flyin.php">Ames Fly-In</a></li>
