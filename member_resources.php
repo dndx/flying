@@ -39,7 +39,7 @@
                     Our flight sim is certified by the FAA to allow pilots, including student pilots, to log training time towards several different classes of pilot ratings (read <a href="/docs/cr12_cert_letter.pdf">the FAA certification letter</a> for details). This is an easy way to reduce flight training costs and get more efficient training. If you are just interested in using the sim for fun or to practice on your own, there are no restrictions on use. But if you wish to log time, you must
                     have a certified instructor present teaching you. The FAA does not allow you to log time when using the sim by yourself or with anyone who is not a certified instructor. Fortunately, we do have instructors available and you can make arrangments with them to receive instruction.</p>
 
-                    <p>This simulator was funded in part by the Government of the Student Body (<a href='http://www.gsb.iastate.edu'>GSB</a>) at Iowa State University and the software was donated by Laminar Research, makers of X-Plane.</p>
+                    <p>This simulator was funded in part by the <a href="http://www.stugov.iastate.edu">Student Government</a> at Iowa State University and the software was donated by Laminar Research, makers of X-Plane.</p>
                 </div>
             </div>
             <div id="club_equipment" class="parallax" data-stellar-background-ratio="0.05">

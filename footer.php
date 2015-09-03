@@ -1,7 +1,8 @@
     	</div>
         <footer>
             &copy; Iowa State University Flying Cyclones 2010-<?= date('Y') ?>. Designed by <a href="http://www.info.iastate.edu/individuals/search/dsun@iastate.edu">Datong Sun</a> and <a href="http://www.info.iastate.edu/individuals/search/neick@iastate.edu">Nathan Eick</a>.<br>
-            E-Mail any suggestions or questions to <a href="mailto:flying@iastate.edu">flying@iastate.edu</a>.
+            E-Mail any suggestions or questions to <a href="mailto:flying@iastate.edu">flying@iastate.edu</a>.<br>
+            Flying Cyclones is partially funded by the <a href="http://www.stugov.iastate.edu">Student Government</a>.
         </footer>
     </div>
     <script src="/js/main.js"></script>
