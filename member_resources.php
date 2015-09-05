@@ -12,7 +12,7 @@
                     </p>
                     <p>
                         <ol>
-                            <li>Endorsement from an instructor to pass your written knowledge test. You will obtain an endorsement if finish the club Gound School.</li>
+                            <li>Endorsement from an instructor to pass your written knowledge test. You will obtain an endorsement if finish and pass the Gound School offered by the club.</li>
                             <li>40 hours of logged flight time and 20 hours of dual instruction with a certified instructor.</li>
                         </ol>
                     </p>
