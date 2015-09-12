@@ -52,7 +52,7 @@
                     <p>Pay attention to the club mailing list! Pilots always announce their upcoming flights using the mailing list.</p>
                     <p>
                         <ol>
-                            <li>After you have joined the club, go to <a target="_blank" href="https://www.cyfly.com">Cyfly</a> and login.</li>
+                            <li>After you have joined the club, go to <a target="_blank" href="https://www.cyfly.org">Cyfly</a> and login.</li>
                             <li>If Cyfly indicates any issue about your account, please resolve them with the instruction provided.</li>
                             <div class="half">
                                 <h2>If you have paid dues</h2>
