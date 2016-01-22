@@ -42,7 +42,7 @@
                     <p>Joining the club is simple! Please follow the simple steps below to establish your membership.</p>
                     <p>
                         <ol>
-                            <li>Pay club dues for the school year ($30) to Treasurer Nathan Eick or to a club pilot before a flight.</li>
+                            <li>Pay club dues for the school year ($30) to Treasurer Broderick May or to a club pilot before a flight.</li>
                             <li>Fill the mandatory participation waiver. <a href="#waiver_information">Here are detailed steps on how to do it</a>.</li>
                         </ol>
                     </p>
